@@ -1,0 +1,2 @@
+# ocrTemp
+privocr
